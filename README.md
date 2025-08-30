@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I’m Sina Barazandeh  
 
-<!--
-**sinabr/sinabr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **PhD student in Computational Biology at CMU/Pitt (CPCB Program)**.  
+My research focuses on **Generative AI, RNA design, biomarker discovery, and automated science**.  
+I’m passionate about building **foundation models** that can accelerate discoveries in biology and beyond.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Current Research
+- **RNAGEN** – Generative AI for RNA design and optimization.  
+- **UTRGAN** – GAN-based UTR sequence design (*Bioinformatics Advances, 2024*).  
+- **RL for Senescence Biomarker Discovery** – Reinforcement learning + ML for aging biomarkers (preprint in prep).  
+- **RNA Translator** – LLM-based RNA design for protein targeting (2nd author; preprint under revision).  
+
+---
+
+## 📄 Publications
+- *GANs for UTR design* – **Bioinformatics Advances (2024)**  
+- *GAN + Latent Representation Optimization for RNA design* – **ChemBioChem** (under revision)  
+- *LLM-based RNA design for protein targeting* – **PLOS Computational Biology** (under revision)  
+
+---
+
+## 💻 Skills
+- **Generative AI**: GANs, Diffusion, Transformers, RL  
+- **Computational Biology**: RNA design, scRNA, biomarkers  
+- **Tools**: PyTorch, HuggingFace, Python, JAX, HPC  
+
+---
+
+## 📫 Connect
+- 📧 [your-email@cmu.edu](mailto:sbarazan@andrew.cmu.edu)  
+- 🔗 [LinkedIn](https://linkedin.com/in/sina-barazandeh)  
+- 🌐 [Personal site or lab page](Under Construction)    
+
+---
