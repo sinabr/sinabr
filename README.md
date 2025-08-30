@@ -8,7 +8,6 @@ I’m passionate about building **foundation models** that can accelerate discov
 
 ## 🔬 Current Research
 - **RNAGEN** – Generative AI for RNA design and optimization. (*Under revision in ChemBioChem*)
-- **UTRGAN** – GAN-based UTR sequence design (*Bioinformatics Advances, 2024*).  
 - **RL for Senescence Biomarker Discovery** – Reinforcement learning + ML for aging biomarkers (preprint in prep).  
 - **RNA Translator** – LLM-based RNA design for protein targeting (*under revision at PLOS ONE Computational Biology*).  
 
