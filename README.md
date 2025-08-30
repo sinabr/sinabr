@@ -13,13 +13,6 @@ I’m passionate about building **foundation models** that can accelerate discov
 
 ---
 
-## 📄 Publications
-- *GANs for UTR design* – **Bioinformatics Advances (2024)**  
-- *GAN + Latent Representation Optimization for RNA design* – **ChemBioChem** (under revision)  
-- *LLM-based RNA design for protein targeting* – **PLOS Computational Biology** (under revision)  
-
----
-
 ## 💻 Skills
 - **Generative AI**: GANs, Diffusion, Transformers, RL  
 - **Computational Biology**: RNA design, scRNA, biomarkers  
@@ -28,7 +21,7 @@ I’m passionate about building **foundation models** that can accelerate discov
 ---
 
 ## 📫 Connect
-- 📧 [your-email@cmu.edu](mailto:sbarazan@andrew.cmu.edu)  
+- 📧 [sbarazan@andrew.cmu.edu](mailto:sbarazan@andrew.cmu.edu)  
 - 🔗 [LinkedIn](https://linkedin.com/in/sina-barazandeh)  
 - 🌐 [Personal site or lab page](Under Construction)    
 
