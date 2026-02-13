@@ -23,6 +23,6 @@ I’m passionate about building **foundation models** that can accelerate discov
 ## 📫 Connect
 - 📧 [sbarazan@andrew.cmu.edu](mailto:sbarazan@andrew.cmu.edu)  
 - 🔗 [LinkedIn](https://linkedin.com/in/sina-barazandeh)  
-- 🌐 [Personal site or lab page](Under Construction)    
+- 🌐 sinabr.github.io
 
 ---
